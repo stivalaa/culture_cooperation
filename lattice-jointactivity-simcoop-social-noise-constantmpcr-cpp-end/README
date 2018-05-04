@@ -1,0 +1,25 @@
+Version of Axelrod model with noise and social influence, and with
+interaction now consisting of joint activity modelled as public goods
+game, rather than original Axelrod interaction of simply focal agent
+changing random fetaure to trait of interaction partner.
+
+This version has co-operators co-operate with probability proportional
+to cultural similarlity, rather than always as before. Defectors still
+always defect.
+
+This is derived from a copy of lattice-jointactivity-social-noise-cpp-end/ but now with co-operation probability based on cultural similarity added.
+
+
+Derived originaly from Jens Pfau's c++ code for his Physica A paper from
+
+http://ww2.cs.mu.oz.au/~pfauj/physicaa2012/physicaa2012-cpp.zip
+
+modified by Alex Stivala to paralleize on MPI system using mpi4py
+in conjunction with physica2012-python-mpi (modified version of Jens's 
+Python scripts)
+
+
+
+ADS
+Wed May 21 11:51:05 EST 2014
+

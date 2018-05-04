@@ -1,0 +1,15 @@
+Based on Jens Pfau's Python scripts for his Physica A paper from
+
+http://ww2.cs.mu.oz.au/~pfauj/physicaa2012/physicaa2012-python.zip
+
+modified by Alex Stivala to paralleize on MPI system using mpi4py,
+
+http://mpi4py.scipy.org/
+
+and also this version simplified to remove social networks, migration,
+etc. for use on simpler lattice Axelrod model, and addition of extra 
+parameters for initialization, joint activities, noise, etc.
+
+
+ADS
+Fri May 30 14:16:24 EST 2014
