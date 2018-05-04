@@ -24,5 +24,5 @@ The model can be run with a command line such as: `mpirun --mca mpi_warn_on_fork
 
 If you use our software, data, or results in your research, please cite:
 
-- A. Stivala, Y. Kashima and M. Kirley 2016 [Culture and cooperation in a spatial public goods game](http://link.aps.org/doi/10.1103/PhysRevE.94.032303)Phys. Rev. E94:032303 [doi: 10.1103/PhysRevE.94.032303](http://dx.doi.org/10.1103/PhysRevE.94.032303)[[Published paper]](PhysRevE.94.032303.pdf)[[Supplemental Material]](axelrodpgg_sm.pdf)
+- A. Stivala, Y. Kashima and M. Kirley 2016 [Culture and cooperation in a spatial public goods game](http://link.aps.org/doi/10.1103/PhysRevE.94.032303 )Phys. Rev. E94:032303 [doi: 10.1103/PhysRevE.94.032303](http://dx.doi.org/10.1103/PhysRevE.94.032303)
 
