@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Stivala"
+  given-names: "Alex"
+  orcid: "https://orcid.org/0000-0002-2442-4743"
+- family-names: "Kashima"
+  given-names: "Yoshihisa"
+- family-names: "Kirley"
+  given-names: "Michael"
+title: "Culture and cooperation in a spatial public goods game"
+url: https://github.com/stivalaa/culture_cooperation
+preferred-citation:
+  type: article
+  title: "Culture and cooperation in a spatial public goods game"
+  authors:
+    - family-names: "Stivala"
+      given-names: "Alex"
+      orcid: "https://orcid.org/0000-0002-2442-4743"
+    - family-names: "Kashima"
+      given-names: "Yoshihisa"
+    - family-names: "Kirley"
+      given-names: "Michael"
+  doi: 10.1103/PhysRevE.94.032303
+  journal: Physical Review E
+  year: 2016
+  volume: 94
+  issue: 3
+  start: 032303
