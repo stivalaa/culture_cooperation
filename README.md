@@ -3,7 +3,9 @@ Culture and cooperation in a spatial public goods game
 
 ## Software
 
-Imported from https://sites.google.com/site/alexdstivala/home/culture_cooperation
+Imported from https://sites.google.com/site/alexdstivala/home/culture_cooperation.
+
+Also available from Zenodo with DOI: [![DOI](https://zenodo.org/badge/132080768.svg)](https://doi.org/10.5281/zenodo.17993414)
 
 This software is free under the terms of the GNU General Public License.
 It is derived from code developed for an earlier publication
@@ -24,5 +26,5 @@ The model can be run with a command line such as: `mpirun --mca mpi_warn_on_fork
 
 If you use our software, data, or results in your research, please cite:
 
-- A. Stivala, Y. Kashima and M. Kirley 2016 [Culture and cooperation in a spatial public goods game](http://link.aps.org/doi/10.1103/PhysRevE.94.032303 ) Phys. Rev. E94:032303 [doi: 10.1103/PhysRevE.94.032303](http://dx.doi.org/10.1103/PhysRevE.94.032303)
+- A. Stivala, Y. Kashima and M. Kirley 2016 [Culture and cooperation in a spatial public goods game](http://link.aps.org/doi/10.1103/PhysRevE.94.032303 ) Phys. Rev. E 94:032303 [doi: 10.1103/PhysRevE.94.032303](http://dx.doi.org/10.1103/PhysRevE.94.032303)
 
